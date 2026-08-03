@@ -1,0 +1,63 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Ibrahim Yousaf — Full-stack and mobile developer</title>
+  <desc>A dark developer banner with cyan and violet gradients, code details, and technology labels.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.48" stop-color="#0B1424"/>
+      <stop offset="1" stop-color="#120A25"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="164" y1="78" x2="724" y2="268" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 40) rotate(35) scale(410 260)">
+      <stop stop-color="#22D3EE" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1080 318) rotate(-145) scale(450 280)">
+      <stop stop-color="#A855F7" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity="0.07"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="#07111F"/>
+  <rect width="1200" height="360" rx="28" fill="url(#background)" fill-opacity="0.82"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glowCyan)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glowViolet)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="2"/>
+
+  <circle cx="1048" cy="74" r="78" stroke="#67E8F9" stroke-opacity="0.14"/>
+  <circle cx="1048" cy="74" r="52" stroke="#A78BFA" stroke-opacity="0.18"/>
+  <circle cx="1048" cy="74" r="10" fill="#67E8F9" fill-opacity="0.65" filter="url(#softGlow)"/>
+  <path d="M984 239L1020 275L984 311" stroke="#67E8F9" stroke-opacity="0.56" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1134 239L1098 275L1134 311" stroke="#C084FC" stroke-opacity="0.56" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1074 227L1043 320" stroke="#A78BFA" stroke-opacity="0.42" stroke-width="5" stroke-linecap="round"/>
+
+  <rect x="82" y="58" width="176" height="34" rx="17" fill="#0E2233" stroke="#67E8F9" stroke-opacity="0.35"/>
+  <circle cx="103" cy="75" r="5" fill="#67E8F9"/>
+  <text x="119" y="80" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">HELLO, WORLD</text>
+
+  <text x="80" y="164" fill="#8BE9FD" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800" letter-spacing="1">IBRAHIM YOUSAF</text>
+  <text x="83" y="207" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="2.8">FULL-STACK  •  MOBILE  •  CREATIVE TECHNOLOGY</text>
+  <text x="83" y="245" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="0.5">Building digital experiences that feel as good as they work.</text>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">
+    <rect x="82" y="282" width="158" height="38" rx="10" fill="#101E2E" stroke="#67E8F9" stroke-opacity="0.28"/>
+    <text x="105" y="306" fill="#CFFAFE">REACT NATIVE</text>
+    <rect x="252" y="282" width="100" height="38" rx="10" fill="#101E2E" stroke="#818CF8" stroke-opacity="0.3"/>
+    <text x="272" y="306" fill="#E0E7FF">DJANGO</text>
+    <rect x="364" y="282" width="134" height="38" rx="10" fill="#101E2E" stroke="#C084FC" stroke-opacity="0.3"/>
+    <text x="382" y="306" fill="#F3E8FF">TYPESCRIPT</text>
+    <rect x="510" y="282" width="126" height="38" rx="10" fill="#101E2E" stroke="#67E8F9" stroke-opacity="0.28"/>
+    <text x="528" y="306" fill="#CFFAFE">WORDPRESS</text>
+  </g>
+</svg>
