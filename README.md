@@ -3,89 +3,162 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/benzibrahim?tab=followers"><img src="https://img.shields.io/github/followers/benzibrahim?label=Followers&style=for-the-badge&color=6D5DFB&labelColor=0B1424" alt="GitHub followers" /></a>
-  <a href="https://github.com/benzibrahim?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-22D3EE?style=for-the-badge&labelColor=0B1424" alt="Explore my projects" /></a>
-  <img src="https://komarev.com/ghpvc/?username=benzibrahim&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=67E8F9&center=true&vCenter=true&width=900&lines=Full-Stack+%26+Mobile+Developer;React+Native+%7C+Expo+%7C+TypeScript;Python+%7C+Django+%7C+WordPress;Turning+ideas+into+polished+digital+products" alt="Animated developer roles" />
+  </a>
 </p>
 
-## About me
-
-I'm **Ibrahim Yousaf**, a full-stack and mobile developer who enjoys turning ideas into thoughtful, polished digital products. My work spans cross-platform applications, modern web experiences, content platforms, and applied machine-learning research.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>What I build</h3>
-      <ul>
-        <li>Cross-platform apps with React Native and Expo</li>
-        <li>Modern interfaces with React and TypeScript</li>
-        <li>Full-stack products powered by Python and Django</li>
-        <li>Flexible websites and content systems with WordPress</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>What I care about</h3>
-      <ul>
-        <li>Interfaces that feel clear, responsive, and intentional</li>
-        <li>Maintainable code and reusable design systems</li>
-        <li>Useful technology with a strong product perspective</li>
-        <li>Continuous learning across ML and deep learning</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## Technology toolkit
-
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p align="center">
+  <a href="https://github.com/benzibrahim?tab=followers"><img src="https://img.shields.io/github/followers/benzibrahim?label=FOLLOWERS&style=for-the-badge&color=22D3EE&labelColor=07111F" alt="GitHub followers" /></a>
+  <a href="https://github.com/benzibrahim?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-8B5CF6?style=for-the-badge&labelColor=07111F" alt="Explore projects" /></a>
+  <img src="https://komarev.com/ghpvc/?username=benzibrahim&style=for-the-badge&color=6D5DFB&label=PROFILE+VIEWS&labelColor=07111F" alt="Profile views" />
 </p>
 
-## Featured work
+---
+
+## `> identity.init()`
+
+```yaml
+developer:
+  name: Ibrahim Yousaf
+  role: Full-Stack & Mobile Developer
+  builds: Cross-platform apps, web products, and content platforms
+  frontend: React Native, Expo, React, TypeScript, JavaScript
+  backend: Python, Django
+  creative: WordPress, responsive UI, digital strategy
+  research: Machine learning and deep learning
+  principle: "Build with purpose. Polish every detail. Keep learning."
+```
+
+I turn product ideas into clear, responsive experiences—from refined mobile interfaces to practical full-stack systems. I care about the layer users see and the architecture that keeps everything underneath maintainable.
+
+---
+
+## `> flagship.build`
 
 <a href="https://github.com/benzibrahim/blanc-living-mobile">
-  <img src="https://raw.githubusercontent.com/benzibrahim/blanc-living-mobile/main/assets/blanc-home-hero-final.png" alt="BLANC Living Mobile" width="100%" />
+  <img src="./assets/blanc-project-card.svg" alt="BLANC Living Mobile featured project" width="100%" />
 </a>
 
 ### [BLANC Living Mobile](https://github.com/benzibrahim/blanc-living-mobile)
 
-A refined React Native and Expo experience for luxury garment care. It includes a complete editorial home page, eight service journeys, studio and membership experiences, client booking, account screens, local order tracking, responsive navigation, and a reusable mobile design system.
-
-`React Native` · `Expo` · `TypeScript` · `Mobile UI` · `Responsive Design`
-
-## GitHub snapshot
+```yaml
+project: Premium garment-care mobile experience
+role: End-to-end React Native implementation
+experience:
+  - Editorial, animated home journey
+  - Eight specialist service flows
+  - Four-step collection booking
+  - Studios, bridal, membership, business, account, and order screens
+  - Center-snapping cards, FAQs, responsive navigation, and keyboard-safe forms
+engineering:
+  stack: [React Native, Expo, TypeScript]
+  architecture: Typed routes, reusable UI primitives, centralized theme and content
+  quality: Expo Doctor 18/18, clean TypeScript validation
+```
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=benzibrahim&show_icons=true&hide_border=true&bg_color=0B1424&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&ring_color=818CF8" alt="Ibrahim's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benzibrahim&layout=compact&hide_border=true&bg_color=0B1424&title_color=67E8F9&text_color=CBD5E1" alt="Ibrahim's most used languages" />
+  <a href="https://github.com/benzibrahim/blanc-living-mobile"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benzibrahim&repo=blanc-living-mobile&hide_border=true&bg_color=07111F&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1" alt="BLANC Living Mobile repository card" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benzibrahim&hide_border=true&background=0B1424&stroke=334155&ring=818CF8&fire=C084FC&currStreakLabel=67E8F9&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Ibrahim's GitHub contribution streak" />
-</p>
+---
 
-## Let's connect
+## `> technology.matrix`
 
-I'm always interested in thoughtful software, strong product ideas, and opportunities to build useful experiences.
+### Mobile & frontend
 
 <p>
-  <a href="https://github.com/benzibrahim"><img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
-  <a href="https://github.com/benzibrahim?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-View_Repositories-6D5DFB?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" /></a>
+  <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" height="44" alt="React and React Native" /></a>&nbsp;
+  <a href="https://expo.dev/"><img src="https://img.shields.io/badge/EXPO-07111F?style=for-the-badge&logo=expo&logoColor=67E8F9" height="44" alt="Expo" /></a>&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="44" alt="TypeScript" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="44" alt="JavaScript" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="44" alt="HTML" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="44" alt="CSS" /></a>
+</p>
+
+### Backend, content & research
+
+<p>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="44" alt="Python" /></a>&nbsp;
+  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" height="44" alt="Django" /></a>&nbsp;
+  <a href="https://wordpress.org/"><img src="https://skillicons.dev/icons?i=wordpress" height="44" alt="WordPress" /></a>&nbsp;
+  <img src="https://img.shields.io/badge/MACHINE_LEARNING-07111F?style=for-the-badge&logo=tensorflow&logoColor=C084FC" height="44" alt="Machine learning" />&nbsp;
+  <img src="https://img.shields.io/badge/DEEP_LEARNING-07111F?style=for-the-badge&logo=pytorch&logoColor=67E8F9" height="44" alt="Deep learning" />
+</p>
+
+### Workflow
+
+<p>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="44" alt="Git" /></a>&nbsp;
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="44" alt="GitHub" /></a>&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="44" alt="Visual Studio Code" /></a>&nbsp;
+  <img src="https://img.shields.io/badge/RESPONSIVE_UI-07111F?style=for-the-badge&logo=figma&logoColor=A78BFA" height="44" alt="Responsive UI" />
+</p>
+
+---
+
+## `> github.telemetry`
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benzibrahim&theme=tokyonight" alt="GitHub profile summary" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=benzibrahim&theme=tokyonight" alt="Languages by repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=benzibrahim&theme=tokyonight" alt="Languages by commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=benzibrahim&theme=tokyonight" alt="GitHub statistics" />
+  <img src="https://streak-stats.demolab.com?user=benzibrahim&theme=tokyonight-duo&hide_border=true&background=1A1B27&ring=67E8F9&fire=C084FC&currStreakLabel=67E8F9" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## `> current.signal`
+
+```typescript
+const currentFocus = {
+  building: [
+    "polished cross-platform mobile experiences",
+    "maintainable full-stack products",
+    "responsive interfaces with strong visual systems",
+  ],
+  sharpening: ["TypeScript", "React Native architecture", "product thinking"],
+  exploring: ["machine learning", "deep learning", "intelligent user experiences"],
+  mindset: "Make it useful, make it clear, then make it memorable.",
+};
+```
+
+---
+
+## `> contribution.stream`
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=benzibrahim&bg_color=07111F&color=67E8F9&line=8B5CF6&point=F8FAFC&area=true&area_color=312E81&hide_border=true&radius=8" alt="Ibrahim Yousaf's GitHub activity graph" width="100%" />
+</a>
+
+---
+
+## `> connect()`
+
+```javascript
+const connect = {
+  profile: "https://github.com/benzibrahim",
+  projects: "https://github.com/benzibrahim?tab=repositories",
+  featuredBuild: "https://github.com/benzibrahim/blanc-living-mobile",
+};
+
+console.log("Let's build something thoughtful.");
+```
+
+<p align="center">
+  <a href="https://github.com/benzibrahim"><img src="https://img.shields.io/badge/GITHUB-FOLLOW_MY_WORK-07111F?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Follow on GitHub" /></a>
+  <a href="https://github.com/benzibrahim?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-VIEW_REPOSITORIES-07111F?style=for-the-badge&logo=github&logoColor=C084FC" alt="View repositories" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <strong>Build with purpose. Polish every detail. Keep learning.</strong>
+  <code>// thoughtful products · clean engineering · one polished detail at a time</code>
 </p>
