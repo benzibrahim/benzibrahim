@@ -132,7 +132,25 @@ const currentFocus = {
 
 ---
 
-## `> contribution.stream`
+## `> build.loop`
+
+<p align="center">
+  <img src="./assets/build-loop.svg" alt="Animated product engineering build loop" width="100%" />
+</p>
+
+---
+
+## `> contribution.arcade`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benzibrahim/benzibrahim/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benzibrahim/benzibrahim/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake eating Ibrahim's GitHub contributions" src="https://raw.githubusercontent.com/benzibrahim/benzibrahim/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<p align="center"><sub>The contribution snake refreshes automatically every day.</sub></p>
+
+### Activity signal
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=benzibrahim&bg_color=07111F&color=67E8F9&line=8B5CF6&point=F8FAFC&area=true&area_color=312E81&hide_border=true&radius=8" alt="Ibrahim Yousaf's GitHub activity graph" width="100%" />

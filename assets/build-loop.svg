@@ -1,0 +1,81 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Ibrahim Yousaf's animated product build loop</title>
+  <desc>An animated flow from idea through design, build, refine, and ship.</desc>
+  <defs>
+    <linearGradient id="loopBg" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.5" stop-color="#11172B"/>
+      <stop offset="1" stop-color="#1E1233"/>
+    </linearGradient>
+    <linearGradient id="rail" x1="136" y1="0" x2="1064" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.52" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <radialGradient id="nodeGlow">
+      <stop stop-color="#FFFFFF" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#67E8F9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="loopGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#94A3B8" stroke-opacity="0.055"/>
+    </pattern>
+    <filter id="cometGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="280" rx="26" fill="url(#loopBg)"/>
+  <rect width="1200" height="280" rx="26" fill="url(#loopGrid)"/>
+  <rect x="1" y="1" width="1198" height="278" rx="25" stroke="url(#rail)" stroke-opacity="0.28" stroke-width="2"/>
+
+  <text x="68" y="56" fill="#67E8F9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2.8">PRODUCT ENGINEERING</text>
+  <text x="68" y="88" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">The build loop</text>
+  <text x="1132" y="71" text-anchor="end" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.6">THINK → MAKE → IMPROVE</text>
+
+  <path d="M140 154H1060" stroke="#1E293B" stroke-width="10" stroke-linecap="round"/>
+  <path d="M140 154H1060" stroke="url(#rail)" stroke-width="3" stroke-linecap="round"/>
+
+  <circle cx="140" cy="154" r="24" fill="url(#nodeGlow)" opacity="0.45"/>
+  <circle cx="370" cy="154" r="24" fill="url(#nodeGlow)" opacity="0.34"/>
+  <circle cx="600" cy="154" r="24" fill="url(#nodeGlow)" opacity="0.34"/>
+  <circle cx="830" cy="154" r="24" fill="url(#nodeGlow)" opacity="0.34"/>
+  <circle cx="1060" cy="154" r="24" fill="url(#nodeGlow)" opacity="0.4"/>
+
+  <g fill="#0B1424" stroke-width="3">
+    <circle cx="140" cy="154" r="11" stroke="#22D3EE">
+      <animate attributeName="r" values="10;15;10" dur="5s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="370" cy="154" r="11" stroke="#67E8F9">
+      <animate attributeName="r" values="10;15;10" dur="5s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="154" r="11" stroke="#818CF8">
+      <animate attributeName="r" values="10;15;10" dur="5s" begin="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="830" cy="154" r="11" stroke="#A78BFA">
+      <animate attributeName="r" values="10;15;10" dur="5s" begin="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1060" cy="154" r="11" stroke="#C084FC">
+      <animate attributeName="r" values="10;15;10" dur="5s" begin="4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <circle r="16" fill="#67E8F9" opacity="0.32" filter="url(#cometGlow)">
+    <animateMotion dur="5s" repeatCount="indefinite" path="M140 154 L370 154 L600 154 L830 154 L1060 154"/>
+  </circle>
+  <circle r="6" fill="#F8FAFC">
+    <animateMotion dur="5s" repeatCount="indefinite" path="M140 154 L370 154 L600 154 L830 154 L1060 154"/>
+  </circle>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="140" y="207" fill="#E2E8F0" font-size="13" font-weight="700" letter-spacing="1.8">IDEA</text>
+    <text x="370" y="207" fill="#E2E8F0" font-size="13" font-weight="700" letter-spacing="1.8">DESIGN</text>
+    <text x="600" y="207" fill="#E2E8F0" font-size="13" font-weight="700" letter-spacing="1.8">BUILD</text>
+    <text x="830" y="207" fill="#E2E8F0" font-size="13" font-weight="700" letter-spacing="1.8">REFINE</text>
+    <text x="1060" y="207" fill="#E2E8F0" font-size="13" font-weight="700" letter-spacing="1.8">SHIP</text>
+    <text x="140" y="232" fill="#64748B" font-size="10">UNDERSTAND</text>
+    <text x="370" y="232" fill="#64748B" font-size="10">SIMPLIFY</text>
+    <text x="600" y="232" fill="#64748B" font-size="10">ENGINEER</text>
+    <text x="830" y="232" fill="#64748B" font-size="10">POLISH</text>
+    <text x="1060" y="232" fill="#64748B" font-size="10">DELIVER</text>
+  </g>
+</svg>
