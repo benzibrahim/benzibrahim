@@ -1,0 +1,58 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Developer terminal</title>
+  <desc>An animated terminal showing Ibrahim's approach to building useful products.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.58" stop-color="#0D1729"/>
+      <stop offset="1" stop-color="#1C1030"/>
+    </linearGradient>
+    <linearGradient id="line" x1="60" y1="0" x2="1140" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.55" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#94A3B8" stroke-opacity="0.05"/>
+    </pattern>
+    <clipPath id="screen"><rect x="61" y="50" width="1078" height="260" rx="18"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="25" stroke="url(#line)" stroke-opacity="0.32" stroke-width="2"/>
+  <rect x="60" y="49" width="1080" height="262" rx="19" fill="#0A1423" stroke="#334155" stroke-width="2"/>
+  <path d="M61 98H1139" stroke="#26354A" stroke-width="2"/>
+  <circle cx="91" cy="74" r="7" fill="#FB7185"/>
+  <circle cx="114" cy="74" r="7" fill="#FBBF24"/>
+  <circle cx="137" cy="74" r="7" fill="#34D399"/>
+  <text x="600" y="80" text-anchor="middle" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">IBRAHIM / WORKSPACE</text>
+  <text x="1108" y="80" text-anchor="end" fill="#67E8F9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">●  BUILD MODE</text>
+
+  <g clip-path="url(#screen)" font-family="Menlo, Consolas, monospace">
+    <text x="93" y="141" fill="#67E8F9" font-size="18" font-weight="700">$</text>
+    <text x="118" y="141" fill="#E2E8F0" font-size="18">whoami</text>
+    <text x="93" y="171" fill="#C4B5FD" font-size="19" font-weight="700">Ibrahim Yousaf</text>
+
+    <text x="93" y="211" fill="#67E8F9" font-size="18" font-weight="700">$</text>
+    <text x="118" y="211" fill="#E2E8F0" font-size="18">focus --now</text>
+    <text x="93" y="241" fill="#B8C8DC" font-size="17">mobile apps  ·  web products  ·  useful ideas</text>
+
+    <text x="93" y="281" fill="#67E8F9" font-size="18" font-weight="700">$</text>
+    <text x="118" y="281" fill="#E2E8F0" font-size="18">build --with-care</text>
+    <rect x="318" y="263" width="10" height="22" rx="2" fill="#67E8F9">
+      <animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <path d="M817 119V286" stroke="#334155" stroke-width="2"/>
+  <text x="853" y="144" fill="#8B9BB4" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">PROCESS</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">
+    <circle cx="858" cy="178" r="5" fill="#22D3EE"><animate attributeName="r" values="4;8;4" dur="3s" repeatCount="indefinite"/></circle>
+    <text x="879" y="184" fill="#DDF8FF">Understand</text>
+    <circle cx="858" cy="218" r="5" fill="#818CF8"><animate attributeName="r" values="4;8;4" dur="3s" begin="1s" repeatCount="indefinite"/></circle>
+    <text x="879" y="224" fill="#E0E7FF">Build</text>
+    <circle cx="858" cy="258" r="5" fill="#C084FC"><animate attributeName="r" values="4;8;4" dur="3s" begin="2s" repeatCount="indefinite"/></circle>
+    <text x="879" y="264" fill="#F3E8FF">Refine</text>
+  </g>
+</svg>

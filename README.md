@@ -21,6 +21,10 @@ I'm a full-stack and mobile developer working across **React Native, Expo, React
 
 My work spans customer-facing apps, business tools, and content-driven websites. I also explore machine learning and deep learning when they can make a product more useful.
 
+<div align="center">
+  <img src="assets/terminal.svg" alt="Animated developer terminal showing Ibrahim's current focus and process" width="100%" />
+</div>
+
 ## Featured work
 
 <a href="https://github.com/benzibrahim/blanc-living-mobile">
@@ -43,6 +47,10 @@ A mobile experience for a luxury garment-care service. I built the app with **Re
 | Cross-platform apps with considered navigation, responsive layouts, and smooth flows. | Practical tools with dependable data handling and maintainable code. | Visual systems that make complex tasks feel simple and focused. |
 
 ## Toolbox
+
+<div align="center">
+  <img src="assets/stack-orbit.svg" alt="Animated technology orbit with React Native, TypeScript, Django, Expo, and Python" width="100%" />
+</div>
 
 | Area | Tools I use |
 | :--- | :--- |

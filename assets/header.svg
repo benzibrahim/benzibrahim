@@ -38,12 +38,20 @@
   <circle cx="1048" cy="74" r="78" stroke="#67E8F9" stroke-opacity="0.14"/>
   <circle cx="1048" cy="74" r="52" stroke="#A78BFA" stroke-opacity="0.18"/>
   <circle cx="1048" cy="74" r="10" fill="#67E8F9" fill-opacity="0.65" filter="url(#softGlow)"/>
+  <circle r="5" fill="#67E8F9">
+    <animateMotion dur="9s" repeatCount="indefinite" path="M1126 74 A78 78 0 1 0 970 74 A78 78 0 1 0 1126 74"/>
+  </circle>
+  <circle r="4" fill="#C084FC">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M996 74 A52 52 0 1 0 1100 74 A52 52 0 1 0 996 74"/>
+  </circle>
   <path d="M984 239L1020 275L984 311" stroke="#67E8F9" stroke-opacity="0.56" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M1134 239L1098 275L1134 311" stroke="#C084FC" stroke-opacity="0.56" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M1074 227L1043 320" stroke="#A78BFA" stroke-opacity="0.42" stroke-width="5" stroke-linecap="round"/>
 
   <rect x="82" y="58" width="176" height="34" rx="17" fill="#0E2233" stroke="#67E8F9" stroke-opacity="0.35"/>
-  <circle cx="103" cy="75" r="5" fill="#67E8F9"/>
+  <circle cx="103" cy="75" r="5" fill="#67E8F9">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
   <text x="119" y="80" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">HELLO, WORLD</text>
 
   <text x="80" y="164" fill="#8BE9FD" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800" letter-spacing="1">IBRAHIM YOUSAF</text>
